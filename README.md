@@ -24,6 +24,6 @@ I'm a passionate full-stack developer from Paris, France, with a keen interest i
 ## Connect with me
 
 - [Portfolio](https://dylanbriet.github.io/Folio/)
-- [LinkedIn]([www.linkedin.com/in/dylan-briet-372482175](https://www.linkedin.com/in/dylan-briet-372482175))
+- [LinkedIn](https://www.linkedin.com/in/dylan-briet-372482175)
 
 Feel free to check out my repositories and don't hesitate to connect!
