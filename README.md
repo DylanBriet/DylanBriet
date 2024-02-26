@@ -5,12 +5,15 @@ I'm a passionate full-stack developer from Paris, France, with a keen interest i
 ## Skills and Interests
 
 - 💻 **Languages**: JavaScript (ES6+), TypeScript
-- 🛠️ **Frameworks**: React, Node.js, Express.js
+- 🛠️ **DevTools & Build Tools**: Vite, ESLint
+- ⚛️ **Front-end Libraries/Frameworks**: React, EJS
+- 🖥️ **Back-end Technologies**: Node.js, Express.js
 - 💾 **Databases**: PostgreSQL, MongoDB
 - 📦 **DevOps**: Docker, GitHub Actions
-- 🧪 **Testing**: Jest, Mocha
+- 🧪 **Testing**: Jest, Mocha, Insomnia
 - 🎨 **Design**: Figma, Adobe XD
 - 📈 **ORMs**: Sequelize, TypeORM
+- 🔒 **Validation & Security**: Zod
 
 ## My Values
 
@@ -21,6 +24,6 @@ I'm a passionate full-stack developer from Paris, France, with a keen interest i
 ## Connect with me
 
 - [Portfolio](https://dylanbriet.github.io/Folio/)
-- [LinkedIn](www.linkedin.com/in/dylan-briet-372482175)
+- [LinkedIn]([www.linkedin.com/in/dylan-briet-372482175](https://www.linkedin.com/in/dylan-briet-372482175))
 
 Feel free to check out my repositories and don't hesitate to connect!
